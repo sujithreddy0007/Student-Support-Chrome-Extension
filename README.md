@@ -43,8 +43,7 @@ Markdown
 
 A powerful Chrome extension designed to assist students by providing instant answers and intelligent webpage summaries using the Google Gemini API.
 
-![Gemini Student Helper Screenshot](https://i.imgur.com/8a1b2c3.png) 
-*Note: This is a sample image. You can replace this link with a screenshot of your own extension.*
+
 
 ---
 
